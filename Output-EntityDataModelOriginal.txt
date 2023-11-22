@@ -1,0 +1,5 @@
+﻿Generated model file: Model1.edmx.
+Loading metadata from the database took 00:00:01.2646935.
+Generating the model took 00:00:41.9791978.
+Added the connection string to the Web.Config file.
+Writing the .edmx file took 00:00:00.0007641.
